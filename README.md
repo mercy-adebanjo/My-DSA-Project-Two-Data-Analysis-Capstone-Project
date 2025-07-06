@@ -7,7 +7,7 @@ However, we shall be treating the Case Study 3: Palmora Group HR Analysis in thi
 ## Project Overview
 This data analysis project aims to focus on  gender-related issues within the organization and its regions generate 
 
-Project Topic: Case Study 3: Palmora Group HR Analysis
+### Project Topic: Case Study 3: Palmora Group HR Analysis
 Data set: [download here the Excel file](https://github.com/mercy-adebanjo/My-DSA-Project-Two-Data-Analysis-Capstone-Project/blob/main/Palmoria%20Group%20emp-data.csv)
 [download here the Excel file](https://github.com/mercy-adebanjo/My-DSA-Project-Two-Data-Analysis-Capstone-Project/blob/main/Palmoria%20Group%20Bonus%20Rules.xlsx)
 
@@ -62,7 +62,7 @@ bonus)
 These include, step by steps of the Analysis of the Dataset.The analysis are thereby stated below:
 
 ### Steps taking to anwser the question under EDA are:
-The steps taking to answer my EDA are in the Table view, Report view, Model view and DAX query view. [dowload here] 
+The steps taking to answer my EDA are in the Table view, Report view, Model view and DAX query view. [dowload here](https://github.com/mercy-adebanjo/My-DSA-Project-Two-Data-Analysis-Capstone-Project/blob/main/Project%202%20Palmora%20Group%20HR%20Analysis.pbix)
 
 
 ## Limitation
