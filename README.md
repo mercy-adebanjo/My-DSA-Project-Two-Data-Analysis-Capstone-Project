@@ -7,7 +7,7 @@ However, we shall be treating the Case Study 3: Palmora Group HR Analysis in thi
 ## Project Overview
 This data analysis project aims to focus on  gender-related issues within the organization and its regions generate 
 
-Project Topic: Case Study 2: Palmora Group HR Analysis
+Project Topic: Case Study 3: Palmora Group HR Analysis
 Data set: [download here the Excel file](
 Below are other informations attached to the data set:
 
