@@ -8,8 +8,8 @@ However, we shall be treating the Case Study 3: Palmora Group HR Analysis in thi
 This data analysis project aims to focus on  gender-related issues within the organization and its regions generate 
 
 ### Project Topic: Case Study 3: Palmora Group HR Analysis
-Data set: [download here the Excel file](https://github.com/mercy-adebanjo/My-DSA-Project-Two-Data-Analysis-Capstone-Project/blob/main/Palmoria%20Group%20emp-data.csv)
-[download here the Excel file](https://github.com/mercy-adebanjo/My-DSA-Project-Two-Data-Analysis-Capstone-Project/blob/main/Palmoria%20Group%20Bonus%20Rules.xlsx)
+Data set: - [download here the Excel file](https://github.com/mercy-adebanjo/My-DSA-Project-Two-Data-Analysis-Capstone-Project/blob/main/Palmoria%20Group%20emp-data.csv)
+- [download here the Excel file](https://github.com/mercy-adebanjo/My-DSA-Project-Two-Data-Analysis-Capstone-Project/blob/main/Palmoria%20Group%20Bonus%20Rules.xlsx)
 
 
 ### Company Overview
